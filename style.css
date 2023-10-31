@@ -126,7 +126,7 @@
 #page1 {
     /* width: 100%; */
     height: 100vh;
-    background: url(/images/bg2.jpg);
+    background: url(images/bg2.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
